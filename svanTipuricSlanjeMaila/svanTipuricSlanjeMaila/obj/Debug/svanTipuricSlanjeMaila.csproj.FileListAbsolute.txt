@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\bin\Debug\svanTipuricSlanjeMaila.exe.config
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\bin\Debug\svanTipuricSlanjeMaila.exe
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\bin\Debug\svanTipuricSlanjeMaila.pdb
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.Form1.resources
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.exe
+C:\Users\Korisnik\source\repos\svanTipuricSlanjeMaila\svanTipuricSlanjeMaila\obj\Debug\svanTipuricSlanjeMaila.pdb
